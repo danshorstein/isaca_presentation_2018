@@ -1,2 +1,2 @@
-# ISACA Presentation
-## Improving the IT Audit Process with Python
+# ISACA Presentation June 2018 - Improving the IT Audit Process with Python
+This repository contains the Jupyter Notebooks and related files used in examples presented at my presentation at the DC area annual ISACA conference. 
